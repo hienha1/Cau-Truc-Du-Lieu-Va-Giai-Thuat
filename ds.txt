@@ -1,0 +1,1188 @@
+23123003
+Tran Thi Lan
+03/03/2005
+Cong nghe thong tin 3
+Hai Duong
+7.5
+23123004
+Pham Quang Hieu
+04/04/2005
+Cong nghe thong tin 4
+Nghe An
+6.2
+23123005
+Duong Thi Thanh
+05/05/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+7.8
+23123006
+Bui Quang Thao
+06/06/2005
+Cong nghe thong tin 2
+Hai Phong
+6.5
+23123007
+Nguyen Thi Lan
+07/07/2005
+Cong nghe thong tin 3
+Ha Noi
+8.7
+23123008
+Le Quang Hieu
+08/08/2005
+Cong nghe thong tin 4
+Hai Duong
+9.0
+23123009
+Tran Thi Mai
+09/09/2005
+Cong nghe thong tin 1
+Nghe An
+7.4
+23123010
+Pham Quang Minh
+10/10/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+6.0
+23123011
+Duong Thi Mai
+11/11/2005
+Cong nghe thong tin 3
+Hai Phong
+8.9
+23123012
+Bui Thi Mai
+12/12/2005
+Cong nghe thong tin 4
+Ha Noi
+7.5
+23123013
+Nguyen Quang Hieu
+13/01/2005
+Cong nghe thong tin 1
+Hai Duong
+6.8
+23123014
+Le Thi Thanh
+14/02/2005
+Cong nghe thong tin 2
+Nghe An
+9.3
+23123015
+Tran Thi Lan
+15/03/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+7.1
+23123016
+Pham Thi Mai
+16/04/2005
+Cong nghe thong tin 4
+Hai Phong
+8.0
+23123017
+Duong Thi Lan
+17/05/2005
+Cong nghe thong tin 1
+Ha Noi
+7.2
+23123018
+Bui Quang Mai
+18/06/2005
+Cong nghe thong tin 2
+Hai Duong
+9.0
+23123019
+Nguyen Thi Hieu
+19/07/2005
+Cong nghe thong tin 3
+Nghe An
+6.9
+23123020
+Le Minh Thanh
+20/08/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+8.3
+23123021
+Tran Thi Lan
+21/09/2005
+Cong nghe thong tin 1
+Hai Phong
+7.6
+23123022
+Pham Quang Minh
+22/10/2005
+Cong nghe thong tin 2
+Ha Noi
+7.0
+23123023
+Duong Thi Mai
+23/11/2005
+Cong nghe thong tin 3
+Hai Duong
+6.5
+23123024
+Bui Thi Thanh
+24/12/2005
+Cong nghe thong tin 4
+Nghe An
+8.0
+23123025
+Nguyen Quang Hieu
+25/01/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+9.5
+23123026
+Le Thi Mai
+26/02/2005
+Cong nghe thong tin 2
+Hai Phong
+7.8
+23123027
+Tran Thi Mai
+27/03/2005
+Cong nghe thong tin 3
+Ha Noi
+9.0
+23123028
+Pham Thi Mai
+28/04/2005
+Cong nghe thong tin 4
+Hai Duong
+6.6
+23123029
+Duong Thi Lan
+29/05/2005
+Cong nghe thong tin 1
+Nghe An
+9.4
+23123030
+Bui Quang Minh
+30/06/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.0
+23123031
+Nguyen Thi Thanh
+01/07/2005
+Cong nghe thong tin 3
+Hai Phong
+7.3
+23123032
+Le Minh Hieu
+02/08/2005
+Cong nghe thong tin 4
+Ha Noi
+9.1
+23123033
+Tran Thi Lan
+03/09/2005
+Cong nghe thong tin 1
+Hai Duong
+8.5
+23123034
+Pham Quang Mai
+04/10/2005
+Cong nghe thong tin 2
+Nghe An
+7.6
+23123035
+Duong Thi Mai
+05/11/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+8.2
+23123036
+Bui Thi Mai
+06/12/2005
+Cong nghe thong tin 4
+Hai Phong
+6.9
+23123037
+Nguyen Thi Thanh
+07/01/2005
+Cong nghe thong tin 1
+Ha Noi
+9.3
+23123038
+Le Thi Lan
+08/02/2005
+Cong nghe thong tin 2
+Hai Duong
+7.7
+23123039
+Tran Quang Mai
+09/03/2005
+Cong nghe thong tin 3
+Nghe An
+6.0
+23123040
+Pham Thi Mai
+10/04/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+7.9
+23123041
+Duong Thi Thanh
+11/05/2005
+Cong nghe thong tin 1
+Hai Phong
+9.2
+23123042
+Bui Quang Mai
+12/06/2005
+Cong nghe thong tin 2
+Ha Noi
+8.6
+23123043
+Nguyen Thi Mai
+13/07/2005
+Cong nghe thong tin 3
+Hai Duong
+6.3
+23123044
+Le Thi Thanh
+14/08/2005
+Cong nghe thong tin 4
+Nghe An
+9.5
+23123045
+Tran Quang Hieu
+15/09/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+8.1
+23123046
+Pham Thi Lan
+16/10/2005
+Cong nghe thong tin 2
+Hai Phong
+9.0
+23123047
+Duong Thi Thanh
+17/11/2005
+Cong nghe thong tin 3
+Ha Noi
+8.4
+23123048
+Bui Thi Thanh
+18/12/2005
+Cong nghe thong tin 4
+Hai Duong
+7.2
+23123049
+Nguyen Thi Mai
+19/01/2005
+Cong nghe thong tin 1
+Nghe An
+6.8
+23123050
+Le Minh Mai
+20/02/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+7.7
+23123051
+Tran Thi Thanh
+21/03/2005
+Cong nghe thong tin 3
+Hai Phong
+6.2
+23123052
+Pham Quang Mai
+22/04/2005
+Cong nghe thong tin 4
+Ha Noi
+8.5
+23123053
+Duong Thi Lan
+23/05/2005
+Cong nghe thong tin 1
+Hai Duong
+9.4
+23123054
+Bui Thi Mai
+24/06/2005
+Cong nghe thong tin 2
+Nghe An
+7.0
+23123055
+Nguyen Quang Thanh
+25/07/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+8.9
+23123056
+Le Thi Thanh
+26/08/2005
+Cong nghe thong tin 4
+Hai Phong
+6.7
+23123057
+Tran Thi Mai
+27/09/2005
+Cong nghe thong tin 1
+Ha Noi
+8.0
+23123058
+Pham Thi Lan
+28/10/2005
+Cong nghe thong tin 2
+Hai Duong
+7.8
+23123059
+Duong Thi Thanh
+29/11/2005
+Cong nghe thong tin 3
+Nghe An
+8.4
+23123060
+Bui Quang Thanh
+30/12/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+7.1
+23123061
+Nguyen Thi Mai
+01/01/2005
+Cong nghe thong tin 1
+Hai Phong
+9.0
+23123062
+Le Minh Thanh
+02/02/2005
+Cong nghe thong tin 2
+Ha Noi
+6.8
+23123063
+Tran Thi Thanh
+03/03/2005
+Cong nghe thong tin 3
+Hai Duong
+7.3
+23123064
+Pham Thi Mai
+04/04/2005
+Cong nghe thong tin 4
+Nghe An
+6.5
+23123065
+Duong Thi Mai
+05/05/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+9.2
+23123066
+Bui Thi Thanh
+06/06/2005
+Cong nghe thong tin 2
+Hai Phong
+8.1
+23123067
+Nguyen Quang Mai
+07/07/2005
+Cong nghe thong tin 3
+Ha Noi
+7.0
+23123068
+Le Thi Mai
+08/08/2005
+Cong nghe thong tin 4
+Hai Duong
+8.3
+23123069
+Tran Quang Mai
+09/09/2005
+Cong nghe thong tin 1
+Nghe An
+8.8
+23123070
+Pham Thi Lan
+10/10/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+9.0
+23123071
+Duong Thi Mai
+11/11/2005
+Cong nghe thong tin 3
+Hai Phong
+7.4
+23123072
+Bui Thi Mai
+12/12/2005
+Cong nghe thong tin 4
+Ha Noi
+7.8
+23123073
+Nguyen Thi Mai
+13/01/2005
+Cong nghe thong tin 1
+Nghe An
+8.2
+23123074
+Le Minh Thanh
+14/02/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.1
+23123075
+Tran Thi Mai
+15/03/2005
+Cong nghe thong tin 3
+Hai Phong
+7.3
+23123076
+Pham Thi Mai
+16/04/2005
+Cong nghe thong tin 4
+Ha Noi
+9.0
+23123077
+Duong Thi Thanh
+17/05/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+9.1
+23123078
+Bui Quang Mai
+18/06/2005
+Cong nghe thong tin 2
+Hai Phong
+8.0
+23123079
+Nguyen Thi Mai
+19/07/2005
+Cong nghe thong tin 3
+Nghe An
+7.6
+23123080
+Le Thi Thanh
+20/08/2005
+Cong nghe thong tin 4
+Ha Noi
+8.2
+23123081
+Tran Thi Mai
+21/09/2005
+Cong nghe thong tin 1
+Hai Duong
+7.5
+23123082
+Pham Thi Mai
+22/10/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+6.7
+23123083
+Duong Thi Lan
+23/11/2005
+Cong nghe thong tin 3
+Hai Phong
+7.8
+23123084
+Bui Thi Thanh
+24/12/2005
+Cong nghe thong tin 4
+Ha Noi
+9.0
+23123085
+Nguyen Quang Hieu
+25/01/2005
+Cong nghe thong tin 1
+Hai Duong
+6.4
+23123086
+Le Minh Mai
+26/02/2005
+Cong nghe thong tin 2
+Nghe An
+7.2
+23123087
+Tran Thi Thanh
+27/03/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+8.3
+23123088
+Pham Quang Mai
+28/04/2005
+Cong nghe thong tin 4
+Hai Phong
+7.0
+23123089
+Duong Thi Mai
+29/05/2005
+Cong nghe thong tin 1
+Ha Noi
+8.9
+23123090
+Bui Thi Mai
+30/06/2005
+Cong nghe thong tin 2
+Hai Duong
+7.1
+23123091
+Nguyen Thi Mai
+01/07/2005
+Cong nghe thong tin 3
+Nghe An
+6.6
+23123092
+Le Thi Thanh
+02/08/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+8.0
+23123093
+Tran Thi Lan
+03/09/2005
+Cong nghe thong tin 1
+Hai Phong
+9.3
+23123094
+Pham Thi Mai
+04/10/2005
+Cong nghe thong tin 2
+Ha Noi
+7.4
+23123095
+Duong Thi Lan
+05/11/2005
+Cong nghe thong tin 3
+Hai Duong
+8.2
+23123096
+Bui Quang Thanh
+06/12/2005
+Cong nghe thong tin 4
+Nghe An
+7.7
+23123097
+Nguyen Thi Mai
+07/01/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+8.4
+23123098
+Le Minh Thanh
+08/02/2005
+Cong nghe thong tin 2
+Hai Phong
+6.9
+23123099
+Tran Thi Thanh
+09/03/2005
+Cong nghe thong tin 3
+Ha Noi
+8.5
+23123100
+Pham Thi Mai
+10/04/2005
+Cong nghe thong tin 4
+Hai Duong
+7.3
+23123101
+Duong Thi Mai
+11/05/2005
+Cong nghe thong tin 1
+Nghe An
+9.0
+23123102
+Bui Thi Thanh
+12/06/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.6
+23123103
+Nguyen Quang Mai
+13/07/2005
+Cong nghe thong tin 3
+Hai Phong
+7.9
+23123104
+Le Thi Mai
+14/08/2005
+Cong nghe thong tin 4
+Ha Noi
+9.1
+23123105
+Tran Quang Mai
+15/09/2005
+Cong nghe thong tin 1
+Hai Duong
+6.3
+23123106
+Pham Thi Lan
+16/10/2005
+Cong nghe thong tin 2
+Nghe An
+8.7
+23123107
+Duong Thi Thanh
+17/11/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+7.5
+23123108
+Bui Quang Mai
+18/12/2005
+Cong nghe thong tin 4
+Hai Phong
+8.8
+23123109
+Nguyen Thi Lan
+19/01/2005
+Cong nghe thong tin 1
+Ha Noi
+7.2
+23123110
+Le Minh Thanh
+20/02/2005
+Cong nghe thong tin 2
+Hai Duong
+9.2
+23123111
+Tran Thi Mai
+21/03/2005
+Cong nghe thong tin 3
+Nghe An
+8.0
+23123112
+Pham Thi Lan
+22/04/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+7.6
+23123113
+Duong Thi Mai
+23/05/2005
+Cong nghe thong tin 1
+Hai Phong
+8.1
+23123114
+Bui Thi Mai
+24/06/2005
+Cong nghe thong tin 2
+Ha Noi
+8.9
+23123115
+Nguyen Thi Mai
+25/07/2005
+Cong nghe thong tin 3
+Hai Duong
+7.4
+23123116
+Le Minh Thanh
+26/08/2005
+Cong nghe thong tin 4
+Nghe An
+7.8
+23123117
+Tran Thi Thanh
+27/09/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+9.3
+23123118
+Pham Thi Mai
+28/10/2005
+Cong nghe thong tin 2
+Hai Phong
+6.5
+23123119
+Duong Thi Thanh
+29/11/2005
+Cong nghe thong tin 3
+Ha Noi
+8.4
+23123120
+Bui Quang Mai
+30/12/2005
+Cong nghe thong tin 4
+Hai Duong
+9.0
+23123121
+Nguyen Thi Mai
+01/01/2005
+Cong nghe thong tin 1
+Nghe An
+6.9
+23123122
+Le Thi Thanh
+02/02/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.3
+23123123
+Tran Thi Mai
+03/03/2005
+Cong nghe thong tin 3
+Hai Phong
+7.0
+23123124
+Pham Thi Lan
+04/04/2005
+Cong nghe thong tin 4
+Ha Noi
+9.2
+23123125
+Duong Thi Lan
+05/05/2005
+Cong nghe thong tin 1
+Hai Duong
+7.6
+23123126
+Bui Thi Mai
+06/06/2005
+Cong nghe thong tin 2
+Nghe An
+8.1
+23123127
+Nguyen Quang Hieu
+07/07/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+8.7
+23123128
+Le Minh Mai
+08/08/2005
+Cong nghe thong tin 4
+Hai Phong
+7.3
+23123129
+Tran Thi Thanh
+09/09/2005
+Cong nghe thong tin 1
+Ha Noi
+9.0
+23123130
+Pham Thi Mai
+10/10/2005
+Cong nghe thong tin 2
+Hai Duong
+7.8
+23123131
+Duong Thi Mai
+11/11/2005
+Cong nghe thong tin 3
+Nghe An
+6.5
+23123132
+Bui Thi Thanh
+12/12/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+8.9
+23123133
+Nguyen Thi Mai
+13/01/2005
+Cong nghe thong tin 1
+Hai Phong
+7.2
+23123134
+Le Minh Thanh
+14/02/2005
+Cong nghe thong tin 2
+Ha Noi
+6.8
+23123135
+Tran Thi Mai
+15/03/2005
+Cong nghe thong tin 3
+Hai Duong
+9.0
+23123136
+Pham Thi Lan
+16/04/2005
+Cong nghe thong tin 4
+Nghe An
+7.4
+23123137
+Duong Thi Thanh
+17/05/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+8.5
+23123138
+Bui Quang Mai
+18/06/2005
+Cong nghe thong tin 2
+Hai Phong
+9.1
+23123139
+Nguyen Thi Mai
+19/07/2005
+Cong nghe thong tin 3
+Ha Noi
+7.7
+23123140
+Le Thi Thanh
+20/08/2005
+Cong nghe thong tin 4
+Hai Duong
+8.8
+23123141
+Tran Thi Mai
+21/09/2005
+Cong nghe thong tin 1
+Nghe An
+6.3
+23123142
+Pham Thi Mai
+22/10/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.0
+23123143
+Duong Thi Hoa
+24/12/2005
+Cong nghe thong tin 3
+Hai Phong
+7.9
+23123144
+Bui Thi Quan
+25/01/2005
+Cong nghe thong tin 4
+Ha Noi
+8.2
+23123145
+Nguyen Thi Thang
+26/02/2005
+Cong nghe thong tin 1
+Hai Duong
+7.8
+23123146
+Le Minh Quang
+27/03/2005
+Cong nghe thong tin 2
+Nghe An
+9.0
+23123147
+Tran Thi Hung
+28/04/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+7.6
+23123148
+Pham Thi Hai
+29/05/2005
+Cong nghe thong tin 4
+Hai Phong
+9.1
+23123149
+Duong Thi Thang
+30/06/2005
+Cong nghe thong tin 1
+Ha Noi
+8.4
+23123150
+Bui Quang Hung
+01/07/2005
+Cong nghe thong tin 2
+Hai Duong
+7.5
+23123151
+Nguyen Thi Hoa
+02/08/2005
+Cong nghe thong tin 3
+Nghe An
+8.8
+23123152
+Le Thi Quang
+03/09/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+9.3
+23123153
+Tran Thi Hai
+04/10/2005
+Cong nghe thong tin 1
+Hai Phong
+7.1
+23123154
+Pham Thi Hung
+05/11/2005
+Cong nghe thong tin 2
+Ha Noi
+8.5
+23123155
+Duong Thi Quan
+06/12/2005
+Cong nghe thong tin 3
+Hai Duong
+7.3
+23123156
+Bui Thi Thang
+07/01/2005
+Cong nghe thong tin 4
+Nghe An
+8.7
+23123157
+Nguyen Quang Hien
+08/02/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+7.8
+23123158
+Le Minh Hai
+09/03/2005
+Cong nghe thong tin 2
+Hai Phong
+8.2
+23123159
+Tran Thi Thang
+10/04/2005
+Cong nghe thong tin 3
+Ha Noi
+9.0
+23123160
+Pham Thi Hung
+11/05/2005
+Cong nghe thong tin 4
+Hai Duong
+8.0
+23123161
+Duong Thi Hai
+12/06/2005
+Cong nghe thong tin 1
+Nghe An
+9.2
+23123162
+Bui Quang Hien
+13/07/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+8.9
+23123163
+Nguyen Thi Hoa
+14/08/2005
+Cong nghe thong tin 3
+Hai Phong
+7.7
+23123164
+Le Thi Quan
+15/09/2005
+Cong nghe thong tin 4
+Ha Noi
+6.8
+23123165
+Tran Thi Hung
+16/10/2005
+Cong nghe thong tin 1
+Hai Duong
+8.1
+23123166
+Pham Thi Thang
+17/11/2005
+Cong nghe thong tin 2
+Nghe An
+7.9
+23123167
+Duong Thi Hoa
+18/12/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+9.1
+23123168
+Bui Thi Quan
+19/01/2005
+Cong nghe thong tin 4
+Hai Phong
+8.0
+23123169
+Nguyen Thi Thang
+20/02/2005
+Cong nghe thong tin 1
+Ha Noi
+9.3
+23123170
+Le Minh Quang
+21/03/2005
+Cong nghe thong tin 2
+Hai Duong
+8.4
+23123171
+Tran Thi Hoa
+22/04/2005
+Cong nghe thong tin 3
+Nghe An
+7.5
+23123172
+Pham Thi Quan
+23/05/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+9.0
+23123173
+Duong Thi Hien
+24/06/2005
+Cong nghe thong tin 1
+Hai Phong
+8.3
+23123174
+Bui Thi Thang
+25/07/2005
+Cong nghe thong tin 2
+Ha Noi
+7.2
+23123175
+Nguyen Thi Quan
+26/08/2005
+Cong nghe thong tin 3
+Hai Duong
+9.4
+23123176
+Le Thi Hoa
+27/09/2005
+Cong nghe thong tin 4
+Nghe An
+7.6
+23123177
+Tran Thi Quan
+28/10/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+9.2
+23123178
+Pham Thi Hoa
+29/11/2005
+Cong nghe thong tin 2
+Hai Phong
+8.6
+23123179
+Duong Thi Thang
+30/12/2005
+Cong nghe thong tin 3
+Ha Noi
+7.9
+23123180
+Bui Thi Hien
+31/01/2005
+Cong nghe thong tin 4
+Hai Duong
+8.1
+23123181
+Nguyen Quang Hoa
+01/02/2005
+Cong nghe thong tin 1
+Nghe An
+9.3
+23123182
+Le Minh Hoa
+02/03/2005
+Cong nghe thong tin 2
+Ho Chi Minh
+7.8
+23123183
+Tran Thi Quan
+03/04/2005
+Cong nghe thong tin 3
+Hai Phong
+8.4
+23123184
+Pham Thi Hien
+04/05/2005
+Cong nghe thong tin 4
+Ha Noi
+9.1
+23123185
+Duong Thi Hoa
+05/06/2005
+Cong nghe thong tin 1
+Hai Duong
+7.5
+23123186
+Bui Thi Thang
+06/07/2005
+Cong nghe thong tin 2
+Nghe An
+8.2
+23123187
+Nguyen Thi Hoa
+07/08/2005
+Cong nghe thong tin 3
+Ho Chi Minh
+7.7
+23123188
+Le Thi Hoa
+08/09/2005
+Cong nghe thong tin 4
+Hai Phong
+9.4
+23123189
+Tran Thi Hien
+09/10/2005
+Cong nghe thong tin 1
+Ha Noi
+8.1
+23123190
+Pham Thi Quan
+10/11/2005
+Cong nghe thong tin 2
+Hai Duong
+8.6
+23123191
+Duong Thi Hoa
+11/12/2005
+Cong nghe thong tin 3
+Nghe An
+7.8
+23123192
+Bui Thi Hoa
+12/01/2005
+Cong nghe thong tin 4
+Ho Chi Minh
+9.0
+23123193
+Nguyen Thi Quan
+13/02/2005
+Cong nghe thong tin 1
+Hai Phong
+7.5
+23123194
+Le Minh Hoa
+14/03/2005
+Cong nghe thong tin 2
+Ha Noi
+9.2
+23123195
+Tran Thi Hoa
+15/04/2005
+Cong nghe thong tin 3
+Hai Duong
+8.0
+23123196
+Pham Thi Hoa
+16/05/2005
+Cong nghe thong tin 4
+Nghe An
+8.5
+23123197
+Duong Thi Hoa
+17/06/2005
+Cong nghe thong tin 1
+Ho Chi Minh
+7.9
+23123198
+Bui Thi Quan
+18/07/2005
+Cong nghe thong tin 2
+Hai Phong
+9.4
+23123199
+Nguyen Thi Thang
+19/08/2005
+Cong nghe thong tin 3
+Ha Noi
+7.6
+23123200
+Le Minh Hien
+20/09/2005
+Cong nghe thong tin 4
+Hai Duong
+8.7
